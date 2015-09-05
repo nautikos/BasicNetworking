@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Simon\AndroidStudioProjects\BasicNetworking\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Simon\AndroidStudioProjects\BasicNetworking\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-9ddc2ec6ed97c7df46400bef73e890b9ccbb36aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\AndroidStudioProjects\BasicNetworking\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Simon\AndroidStudioProjects\BasicNetworking\Application\build\intermediates\pre-dexed\debug\classes-04cd2e1c4972e5a0af79639c3ce12dd5e7c045ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Simon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Simon\AndroidStudioProjects\BasicNetworking\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-c01ceec15d82389c81fdec0c6907e9bda932ef10.jar" />
+    </item>
+
+</items>
